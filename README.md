@@ -6,7 +6,7 @@
 
 ## ⠀⠀⠀⠀ ⠀⠀⠀⠀
 
-### O projeto <img width="90px" height="50px" src="src/assets/img/Logo.png"> foi baseado na netflix, porém, compartilhando conteúdo de tecnologia.
+### O projeto ⠀ <img width="90px" src="src/assets/img/Logo.png"> ⠀foi baseado na netflix, porém, compartilhando conteúdo de tecnologia.
 
 ### Como rodar o projeto?
 Após baixar o projeto, acesse ele seu terminal rode os comandos:
