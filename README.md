@@ -1,7 +1,7 @@
 
 ### Semana Imersão React - AluraFlix 
 
-![..](src/assets/img/logo-alura.svg) { width="800" height="600" style="display: block; margin: 0 auto" }
+![..](src/assets/img/logo-alura.svg){width="800" height="600" style="display: block; margin: 0 auto"}
 <p>
 
 ### O projeto Devflix foi baseado na netflix, porém, compartilhando conteúdo de tecnologia.
