@@ -1,13 +1,14 @@
 
 ### Semana Imersão React - AluraFlix 
-
-![..](src/assets/img/logo-alura.svg)
-<img src="src/assets/img/logo-alura.svg">
+<p align="center">
+<img width="300" height="320" src="src/assets/img/logo-alura.svg">
 <p>
 
 ### O projeto Devflix foi baseado na netflix, porém, compartilhando conteúdo de tecnologia.
 
-![..](src/assets/img/Logo.png) <p>{ width="800" height="600" style="display: block; margin: 0 auto" }
+<p align="center">
+<img width="300" height="320" src="src/assets/img/Logo.png">
+</p>
 
 ### Como rodar o projeto?
 Após baixar o projeto, acesse ele seu terminal rode os comandos:
