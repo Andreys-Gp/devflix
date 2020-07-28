@@ -6,10 +6,10 @@
 
 ## ⠀⠀⠀⠀ ⠀⠀⠀⠀
 
-### O projeto ⠀ <img width="90px" src="src/assets/img/Logo.png"> ⠀foi baseado na netflix, porém, compartilhando conteúdo de tecnologia.
+## O projeto ⠀ <img width="90px" src="src/assets/img/Logo.png"> ⠀foi baseado na netflix, porém, compartilhando conteúdo de tecnologia.
 
 ### Como rodar o projeto?
-Após baixar o projeto, acesse ele seu terminal rode os comandos:
+Após baixar o projeto, acesse ele do seu terminal rode os comandos:
 
 * npm install
 * npm start
