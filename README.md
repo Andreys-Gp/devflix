@@ -8,7 +8,7 @@
 
 ## O projeto ⠀ <img width="90px" src="src/assets/img/Logo.png"> ⠀foi baseado na netflix, porém, compartilhando conteúdo de tecnologia.
 
-### [Visualizar projeto](https://devflix-snowy.vercel.app)
+### [Visualizar projeto](https://devflix.iprih.vercel.app)
 
 ### Como rodar o projeto?
 Após baixar o projeto, acesse ele do seu terminal rode os comandos:
