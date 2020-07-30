@@ -30,12 +30,12 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL_PRODUCAO = 'https://devflix-br.herokuapp.com/categorias';
+    const URL_PROD = 'https://devflix-br.herokuapp.com/categorias';
     const URL_DEV = 'http://localhost:8080/categorias';
 
-    const URL_TOP = window.location.hostname.includes('localhost') ? URL_DEV : URL_PRODUCAO;
+    const URL = window.location.hostname.includes('localhost') ? URL_DEV : URL_PROD;
     
-    fetch(URL_TOP)
+    fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
         setCategorias([
@@ -84,7 +84,7 @@ function CadastroCategoria() {
           onChange={handleChange}
         />
 
-        <Button> Cadastrar </Button>
+        <button> Cadastrar </button>
       </form>
 
       {categorias.length === 0 && (
