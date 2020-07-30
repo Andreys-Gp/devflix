@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 
@@ -72,14 +72,18 @@ const Input = styled.input`
 function FormField({
   label, type, name, value, onChange,
 }) {
+  const fieldId = `id_${name}`;
   const isTypeTextArea = type === 'textarea';
   const tag = isTypeTextArea ? 'textarea' : 'input';
 
   return (
     <FormFieldWrapper>
-      <Label>
+      <Label
+      htmlFor={fieldId}
+      >
         <Input
-          as={tag}
+          as={tag}  
+          id={fieldId}
           type={type}
           value={value}
           name={name}
@@ -95,8 +99,9 @@ function FormField({
 }
 
 FormField.defaultProps = {
-  type: 'text',
-  value: '',
+  type: 'text',
+  value: '',
+  onChange: () => {},
 };
 
 FormField.propTypes = {
