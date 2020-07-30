@@ -1,0 +1,18 @@
+{
+    "categorias": [
+    {
+        "id": 1,
+        "nome": "Series",
+        "descrição": "Series indicadas por mim",
+        "cor": "#cbd1ff"
+    },
+    {
+        "id": 2,
+        "nome": "Filmes",
+        "descrição": "Filmes indicados por mim",
+        "cor": "#cbd1ff"
+    }
+
+
+    ]
+}
