@@ -4,86 +4,99 @@
       "titulo": "Séries",
       "link": "",
       "cor": "#6BD1FF",
-       "videos": [
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
         {
           "titulo": "As aventuras de Hipsta - Alura",
           "url": "https://www.youtube.com/watch?v=d34azNMaT4E"
         },
         {
-          "titulo": "F.r.i.e.n.d.s",
-          "url": "https://www.youtube.com/watch?v=ekYGfU0XIx0"
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         },
         {
-          "titulo": "The Office",
-          "url": "https://www.youtube.com/watch?v=2iKZmRR9AR4"
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
         },
         {
-          "titulo": "Greys Anatomy",
-          "url": "https://www.youtube.com/watch?v=q1pcpgREQ5c"
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "Lost",
-          "url": "https://www.youtube.com/watch?v=KTu8iDynwNc"
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
         },
         {
-          "titulo": "Dexter",
-          "url": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
-          "titulo": "Atypical",
-          "url": "https://www.youtube.com/watch?v=ieHh4U-QYwU"
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
         }
       ]
     },
     {
-      "titulo": "Música",
-      "cor": "#00C86F",
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "videos": [
         {
-          "titulo": "Phil Collins",
-          "url": "https://www.youtube.com/watch?v=PxaMegcmrNU&t=2392s"
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "B.B King",
-          "url": "https://www.youtube.com/watch?v=Y57kLy1vV1c"
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
         },
         {
-          "titulo": "Tears for Fears",
-          "url": "https://www.youtube.com/watch?v=Ye7FKc1JQe4"
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Evanescence",
-          "url": "https://www.youtube.com/watch?v=LL_4mJZQsRI"
-        },
-        {
-          "titulo": "Sade",
-          "url": "https://www.youtube.com/watch?v=s8fbHuWkAsE"
-        }, 
-        {
-          "titulo": "Charlie Brown Jr",
-          "url": "https://www.youtube.com/watch?v=OnVSsDlxAq4"
-        }, 
-        {
-          "titulo": "The Beatles",
-          "url": "https://www.youtube.com/watch?v=WrLuLK8adOo"
-        }, 
-        {
-          "titulo": "Etta James",
-          "url": "https://www.youtube.com/watch?v=LFsVvSbGTwo"
-        }, 
-        {
-          "titulo": "Eric Clapton",
-          "url": "https://www.youtube.com/watch?v=zaDbG9Ik-ZA"
-        }, 
-        {
-          "titulo": "Elvis Presley",
-          "url": "https://www.youtube.com/watch?v=zgFJCkw6Z2Y"
-        }, 
-        {
-          "titulo": "Tracy Chapman",
-          "url": "https://www.youtube.com/watch?v=yweqbXbkC28"
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
-        
       ]
     },
     {
@@ -91,110 +104,80 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Star Wars",
-          "url": "https://www.youtube.com/watch?v=FDXmcZ1_D-o"
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Titanic",
-          "url": "https://www.youtube.com/watch?v=ZQ6klONCq4s"
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
         },
         {
           "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=tFMo3UJ4B4g"
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
         },
         {
-          "titulo": "Pulp Fiction",
-          "url": "https://www.youtube.com/watch?v=o5qXCzknxn8"
-        },
-        {
-          "titulo": "No Strings Attached",
-          "url": "https://www.youtube.com/watch?v=JABooAbg36k"
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
     {
       "titulo": "Games",
       "cor": "red",
-      "videos": [
-        {
-          "titulo": "The Last of Us",
-          "url": "https://www.youtube.com/watch?v=FIFzImtPBvc"
-        },
-        {
-          "titulo": "Tetris",
-          "url": "https://www.youtube.com/watch?v=NLTj9LTd-NA"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "GTA",
-          "url": "https://www.youtube.com/watch?v=P4hlyBKmQCI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "videos": [
-        {
-          "titulo": "The Last of Us",
-          "url": "https://www.youtube.com/watch?v=FIFzImtPBvc"
-        },
-        {
-          "titulo": "Tetris",
-          "url": "https://www.youtube.com/watch?v=NLTj9LTd-NA"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "GTA",
-          "url": "https://www.youtube.com/watch?v=P4hlyBKmQCI"
-        }
-      ]
-    },
-    {
-      "titulo": "Como começar na Programação?",
-      "cor": "#6b5be2",
       "link_extra": {
-        "text": "Lista do que estudar quando você está começando",
-        "url": ""
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Lógica de Programação",
-          "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
         },
         {
-          "titulo": "Lógica de programação e algoritmo",
-          "url": "https://www.youtube.com/watch?v=C_3qWjNVbPU"
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "Ferramentas",
-          "url": "https://www.youtube.com/watch?v=Te_Xrn-x8_w"
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Ferramentas que Utilizamos no Dia a Dia",
-          "url": "https://www.youtube.com/watch?v=DPHAjAXtXFA"
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "10 projetos rápidos para treinar Programação",
-          "url": "https://www.youtube.com/watch?v=fYR9L2ZmodM"
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
         {
-          "titulo": "Como começar a programar?",
-          "url": "https://www.youtube.com/watch?v=nLPssMXOExM"
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
