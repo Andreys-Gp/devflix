@@ -10,7 +10,7 @@ function Footer() {
       <p>
         Orgulhosamente criado durante a
         {' '}
-        <a href="https://www.alura.com.br/">
+        <a href="https://www.linkedin.com/in/silva-priscila/">
           Imersão React da Alura por Priscila Silva
         </a>
       </p>

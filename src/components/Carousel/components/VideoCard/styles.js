@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const VideoCardContainer = styled.button`
+export const VideoCardContainer = styled.a`
   border: 2px solid;
   border-radius: 4px;
   text-decoration: none;
@@ -18,7 +18,6 @@ export const VideoCardContainer = styled.button`
   display: flex;
   align-items: flex-end;
   padding: 16px;
-
   transition: opacity .3s;
   &:hover,
   &:focus {
